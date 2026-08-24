@@ -1,0 +1,82 @@
+# hr-employee-attrition-analysis
+
+## 📌 Project Overview
+This project analyzes employee attrition using HR employee data to understand workforce patterns, employee satisfaction, performance, workload, and departmental trends.
+
+The analysis was developed using Microsoft Power BI to transform raw HR data into interactive visualizations and actionable business insights.
+
+## 🎯 Business Problem
+Employee attrition can affect organizational performance, productivity, workforce stability, and recruitment costs.
+
+The objective of this analysis is to identify patterns associated with employee attrition and understand how factors such as satisfaction, performance, workload, tenure, promotion, salary, and department relate to employee retention.
+
+## ❓ Business Questions
+1. What is the overall employee attrition rate?
+2. Are employees satisfied with the organization?
+3. Which departments have the highest attrition?
+4. Does employee satisfaction relate to attrition?
+5. Does workload relate to employee attrition?
+6. Does promotion relate to employee retention?
+7. Does salary level relate to attrition?
+8. How does employee performance vary across departments?
+
+9. ## 📊 Dataset
+
+The dataset contains 14,999 employee records and 11 variables.
+
+The dataset includes information relating to:
+- Employee satisfaction
+- Performance evaluation
+- Number of projects
+- Monthly working hours
+- Years spent with the company
+- Workplace accidents
+- Employee attrition
+- Promotions
+- Department
+- Salary
+
+- ### Data Source
+Kaggle — HR_Employee_Data
+
+## 🛠️ Tools & Technologies
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+- Kaggle
+- GitHub
+
+- ## 🔍 Analysis
+Analysis will be documented after data preparation and visualization.
+
+## 📈 Dashboard
+Dashboard screenshots will be added after the Power BI analysis is completed.
+
+## 💡 Key Insights
+Insights will be added after analysis.
+
+## 🎯 Recommendations
+Recommendations will be developed based on the analytical findings.
+
+## 📁 Project Structure
+hr-employee-attrition-analysis/
+├── README.md
+
+├── data/
+
+├── powerbi/
+
+├── screenshots/
+
+└── documentation/
+
+# 🟡  AUTHOR
+
+## 👩🏾‍💻 Author
+
+**Evah Muthoni**
+Aspiring Data Analyst | Customer Experience Professional
+Skills: Excel | SQL | Power BI | Python
+
+This project is part of my ongoing Data Analytics portfolio.
