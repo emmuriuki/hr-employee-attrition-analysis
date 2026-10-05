@@ -20,7 +20,7 @@ The objective of this analysis is to identify patterns associated with employee 
 7. Does salary level relate to attrition?
 8. How does employee performance vary across departments?
 
-9. ## 📊 Dataset
+## 📊 Dataset
 
 The dataset contains 14,999 employee records and 11 variables.
 
@@ -47,7 +47,7 @@ Kaggle — HR_Employee_Data
 - Kaggle
 - GitHub
 
-- ## 🔍 Analysis
+## 🔍 Analysis
 Analysis will be documented after data preparation and visualization.
 
 ## 📈 Dashboard
